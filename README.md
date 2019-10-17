@@ -4,7 +4,7 @@
 
 #### A card trick in which user has to guess a card from 21 cards and after that he has to tell in whihc stack the card is.
 
-#### This process is repeated 3 time and finally this program will predict the guessed card.
+#### This process is repeated 3 time and finally this program will show the guessed card.
 
 ******************************************************************************************************************************
 
